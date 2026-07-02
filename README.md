@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🤖 Laravel Telegram Group Management Bot
-
+# 🤖 Tele Guard
 ### A powerful **Laravel** application for automated **Telegram group management** (TeleGroupBot) — message filtering, keyword moderation, member controls, scheduled messages, and activity insights, with built-in subscriptions and multi-gateway payments.
 
 <p>
