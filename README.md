@@ -5,11 +5,11 @@
 ### A powerful **Laravel** application for automated **Telegram group management** (TeleGroupBot) — message filtering, keyword moderation, member controls, scheduled messages, and activity insights, with built-in subscriptions and multi-gateway payments.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/laravel-management-telegram-bot?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/laravel-management-telegram-bot?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/laravel-management-telegram-bot?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/laravel-management-telegram-bot?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/laravel-management-telegram-bot?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/TeleGuard?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/TeleGuard?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/TeleGuard?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/TeleGuard?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/TeleGuard?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -87,7 +87,7 @@ It's ideal for **community managers, agencies, and developers** who want to offe
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/morpheusadam/laravel-management-telegram-bot.git
+git clone https://github.com/morpheusadam/TeleGuard.git
 cd laravel-management-telegram-bot
 
 # 2. Install dependencies
@@ -135,7 +135,7 @@ laravel-management-telegram-bot/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Fork the repository and submit a pull request, or open an [issue](https://github.com/morpheusadam/laravel-management-telegram-bot/issues) with ideas and bug reports.
+Contributions are welcome! Fork the repository and submit a pull request, or open an [issue](https://github.com/morpheusadam/TeleGuard/issues) with ideas and bug reports.
 
 ## 📜 License
 
